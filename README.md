@@ -7,3 +7,6 @@ I covered try and accept, as well as reading and writing to CSV files. I built a
 
 Day 2 
 I spent day to reading over JSON Files, and understanding how to interact with them within python. JSON stands for JavaScript Object Notation. It will be important for doing front end work. It also has and ascii or ignore ascii value options. 
+
+Day 3
+I spent day 3 learning about different modules and libraries that can be called in python. I made a very simple Password generator, it takes in a sepcific length, and spits out a randomly generated password to your required length. Right now it doesn't save the password anywhere, as saving it in a file can be dangerous. Hopefully when I've learnt enough about encryption, I'll add the ability to store all generated passwords securely and safely.
